@@ -1,0 +1,11 @@
+import stdio.h
+
+#define AMT_SEX 10
+
+int main():
+    printf("Hello, World!\n")
+    for (int i = 0; i < AMT_SEX; i++):
+        printf("%d", 69)
+    printf("\n");
+    return 0
+
