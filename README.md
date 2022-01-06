@@ -10,3 +10,9 @@ int main(void):
     return 0
 ```
 
+## Quickstart
+`snakec` is a simple, crossplatform compiler for the Snake language. use it to compile a snake program:
+```console
+$ ./snakec example.snake
+$ ./example
+```
