@@ -1,5 +1,5 @@
 # Snake
-A pythonic C.
+A powerful, modern language with the low-level, no-nonsense semantics of C and the beautiful, pythonic syntax of python.
 
 Classic Hello, World program in Snake:
 ```c
