@@ -16,3 +16,6 @@ int main(void):
 $ ./snakec example.snake
 $ ./example
 ```
+
+
+*DISCLAIMER: this is a joke project.*
