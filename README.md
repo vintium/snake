@@ -1,3 +1,4 @@
+*DISCLAIMER: this is a joke project.*
 # Snake
 A powerful, modern language with the low-level, no-nonsense semantics of C and the beautiful, pythonic syntax of python.
 
@@ -18,4 +19,4 @@ $ ./example
 ```
 
 
-*DISCLAIMER: this is a joke project.*
+
